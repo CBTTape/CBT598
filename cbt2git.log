@@ -1,0 +1,10 @@
+2023-04-03 01:17:50.378261 - Initialized conversion of CBT598
+2023-04-03 01:17:50.526747 - Received CBT.V504.FILE598.PDS from FILE598.XMI 
+2023-04-03 01:17:50.529770 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE598.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:17:50.531055 - Found $$DOC0.txt (text/plain) in CBT.V504.FILE598.PDS, moved to PDS/$$DOC0
+2023-04-03 01:17:50.532167 - Found $$NOTE.txt (text/plain) in CBT.V504.FILE598.PDS, moved to PDS/$$NOTE
+2023-04-03 01:17:50.533343 - Found $PDSLOAD.jcl (text/plain) in CBT.V504.FILE598.PDS, moved to PDS/$PDSLOAD
+2023-04-03 01:17:50.534427 - Found @FILE598.txt (text/plain) in CBT.V504.FILE598.PDS, moved to PDS/@FILE598
+2023-04-03 01:17:50.535449 - Found DOC.txt (text/plain) in CBT.V504.FILE598.PDS, moved to PDS/DOC
+2023-04-03 01:17:50.536508 - Found MACLIB.txt (text/plain) in CBT.V504.FILE598.PDS, moved to PDS/MACLIB
+2023-04-03 01:17:50.537819 - Found SOURCE.txt (text/plain) in CBT.V504.FILE598.PDS, moved to PDS/SOURCE
