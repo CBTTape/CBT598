@@ -1,9 +1,9 @@
-2025-04-13 21:02:20.492781 - Received CBT.V508.FILE598.PDS from FILE598.XMI 
-2025-04-13 21:02:20.493747 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE598.PDS, moved to PDS/$$$#DATE
-2025-04-13 21:02:20.493828 - Found $$DOC0.txt (text/plain) in CBT.V508.FILE598.PDS, moved to PDS/$$DOC0
-2025-04-13 21:02:20.493892 - Found $$NOTE.txt (text/plain) in CBT.V508.FILE598.PDS, moved to PDS/$$NOTE
-2025-04-13 21:02:20.493952 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE598.PDS, moved to PDS/$PDSLOAD
-2025-04-13 21:02:20.494013 - Found @FILE598.txt (text/plain) in CBT.V508.FILE598.PDS, moved to PDS/@FILE598
-2025-04-13 21:02:20.494093 - Found DOC.txt (text/plain) in CBT.V508.FILE598.PDS, moved to PDS/DOC
-2025-04-13 21:02:20.494202 - Found MACLIB.txt (text/plain) in CBT.V508.FILE598.PDS, moved to PDS/MACLIB
-2025-04-13 21:02:20.494523 - Found SOURCE.txt (text/plain) in CBT.V508.FILE598.PDS, moved to PDS/SOURCE
+2025-04-15 03:50:23.930684 - Received CBT.V508.FILE598.PDS from FILE598.XMI 
+2025-04-15 03:50:23.931697 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE598.PDS, moved to PDS/$$$#DATE
+2025-04-15 03:50:23.932062 - Found $$DOC0.txt (text/plain) in CBT.V508.FILE598.PDS, moved to PDS/$$DOC0
+2025-04-15 03:50:23.932372 - Found $$NOTE.txt (text/plain) in CBT.V508.FILE598.PDS, moved to PDS/$$NOTE
+2025-04-15 03:50:23.932541 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE598.PDS, moved to PDS/$PDSLOAD
+2025-04-15 03:50:23.932697 - Found @FILE598.txt (text/plain) in CBT.V508.FILE598.PDS, moved to PDS/@FILE598
+2025-04-15 03:50:23.932874 - Found DOC.txt (text/plain) in CBT.V508.FILE598.PDS, moved to PDS/DOC
+2025-04-15 03:50:23.933394 - Found MACLIB.txt (text/plain) in CBT.V508.FILE598.PDS, moved to PDS/MACLIB
+2025-04-15 03:50:23.934490 - Found SOURCE.txt (text/plain) in CBT.V508.FILE598.PDS, moved to PDS/SOURCE
